@@ -1,5 +1,5 @@
 # Learning
-
+```dart
 lib/
 ├── main.dart
 ├── models/
@@ -19,7 +19,7 @@ lib/
 │   └── token_service.dart
 └── assets/
     └── logo.png
-
+```
 
 lib/: This is the main folder for the application code.
 main.dart: The entry point of the application.
